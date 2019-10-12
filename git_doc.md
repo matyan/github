@@ -37,12 +37,12 @@ $git push -u origin master
 将本地仓库内容推送到远程库
 $git push origin master
 
-///////
+---
+
 第二种直接clone远程库
 git clone git@github.com:matyan/github.git
 
-////////////////
-创建分支
+- 创建分支
 git checkout -b dev/
 git switch -c dev
 合并指定分支到当前分支
