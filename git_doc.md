@@ -101,7 +101,9 @@ git branch --set-upstream-to <branch-name> origin/<branch-name>
 
 git tag v1.0
 ---
-git clone <src_path> <dst_path>
+- git clone <src_path> <dst_path>
+
+- git clone --bare <src_path> <xxx.git>
 
 
 
