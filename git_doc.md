@@ -105,6 +105,18 @@ git tag v1.0
 
 - git clone --bare <src_path> <xxx.git>
 
+- git fsck
+
+- git diff <commit> HEAD
+
+- git diff <commitit> <commitid> -filename/bisection/
+
+- git diff --stat <commitid> <commitid>
+
+- git log --oneline
+- git log --stat
+- git log --graph
+
 
 
 
