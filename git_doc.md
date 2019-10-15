@@ -1,5 +1,6 @@
 # create repo
 - $git init
+- git config --global user.email "<name@xxx.com>"
 
 - $git log
 
@@ -99,7 +100,8 @@ git branch --set-upstream-to <branch-name> origin/<branch-name>
 
 
 git tag v1.0
-
+---
+git clone <src_path> <dst_path>
 
 
 
